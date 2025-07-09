@@ -2,7 +2,7 @@
 
 # ***Valeriia Karakula***
 
-====
+***
 
 ## ***Contacts***
 
@@ -11,19 +11,19 @@
 * **email**: lera.karakula@gmail.com
 * **GitHub**: [leraeel](https://github.com/leraeel)
 
-====
+***
 
 ### ***About me***
 
 I am a student at the University of Silesia, studying Digital Communication. I learn quickly and easily connect with other people. I am interested in programming and want to develop in tj=his direction.
 
-====
+***
 
 #### ***Skills***
 
 * Python
 
-====
+***
 
 ##### ***Code Example***
 
@@ -40,7 +40,7 @@ return a * b;
 * **Preparatory course for studies**
 * **Dance school**
 
-====
+***
 
 ###### ***Language***
 
