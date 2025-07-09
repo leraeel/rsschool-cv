@@ -19,3 +19,32 @@ I am a student at the University of Silesia, studying Digital Communication. I l
 
 ====
 
+#### ***Skills***
+
+* Python
+
+====
+
+##### ***Code Example***
+
+```
+
+function multiply(a, b){
+return a * b;
+}
+```
+
+###### ***Education***
+
+* **Khmelnytskyi lyceum 17**
+* **Preparatory course for studies**
+* **Dance school**
+
+====
+
+###### ***Language***
+
+* **Russian** - native speaker
+* **Ukrainian** - native speaker
+* **English** - A2
+* **Polish** - B2
